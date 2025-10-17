@@ -17,3 +17,5 @@ To avoid the appearance of government endorsement, manage supply chain risk, and
 - Unvetted accounts or first-time contributors submitting minor changes
 
 If you're unsure whether your contribution fits, feel free to open an issue first so we can discuss it.
+
+<!-- Auto-update: 2025-10-17T15:45:22.675009 -->
